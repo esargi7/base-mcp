@@ -27,7 +27,7 @@ The server interacts with Base, powered by Base Developer Tools and [AgentKit](h
 
 ## Extending Base MCP with 3P Protocols, Tools, and Data Sources
 
-Base MCP is designed to be extensible, allowing you to add your own third-party protocols, tools, and data sources. This section provides an overview of how to extend the Base MCP server with new capabilities.
+Base MCP is designed to be extensible, allowing you to add your own third-party protocols, tools, and data sources. This section provides an overview of how to extend the Base MCP server , with new capabilities.
 
 ### Adding New Tools
 
